@@ -1,0 +1,48 @@
+* {
+    font-family: sans-serif;
+}
+
+.box{
+    background-color: #6b83b4;
+    margin: 20px;
+    padding: 20px;
+    color: #ffffff;
+    width: 90%;
+}
+
+/* estilo de la cabecera */
+#cabecera{
+    height:40px;
+    background-color: rgb(67, 82, 165);
+    color:#ffffff;
+    margin: 30px;
+    padding: 10px;
+}
+
+#body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+/* construccion del boton */
+.action-button{
+    padding: 15px;
+    background-color: rgb(33, 114, 90);
+    border-radius: 5px;
+    color:#ffffff;
+}
+.action-button:hover{
+    padding: 15px;
+    background-color: rgb(100, 121, 117);
+    border-radius: 5px;
+    color:#ffffff;
+}
+#pie{
+    background-color: #9ea6af;
+    padding: 20px;
+    color: #ffffff;
+    bottom: 0px;
+}
