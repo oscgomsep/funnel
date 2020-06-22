@@ -42,7 +42,8 @@
 }
 #pie{
     background-color: #9ea6af;
-    padding: 20px;
+    margin-top: 20px;
+    padding: 1px;
     color: #ffffff;
     bottom: 0px;
 }
